@@ -1,1 +1,6 @@
 joblib
+streamlit
+joblib
+scikit-learn
+pandas  # If you're using pandas in your code
+numpy   # If you're using numpy in your code
